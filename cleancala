@@ -1,0 +1,11 @@
+,
+{
+  "chainId": 101,
+  "address": "31uSUnMWCX6hfdt5cTXEXCh6iUoNgFmK1jRKtvz8pump",
+  "symbol": "CALA",
+  "name": "Calatrava Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/cleancala/token-list/main/assets/mainnet/31uSUnMWCX6hfdt5cTXEXCh6iUoNgFmK1jRKtvz8pump.png",
+  "tags": ["meme", "community"]
+}
+
